@@ -1,7 +1,6 @@
 ---
 title: "Simple document"
-output:
-  word_document: default
+output: html_document
 ---
 
 I'm an R Markdown document! 
